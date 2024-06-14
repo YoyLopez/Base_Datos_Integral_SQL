@@ -1,4 +1,4 @@
-#:octocat: Proyecto de Base de Datos Integral
+:octocat: #Proyecto de Base de Datos Integral
 Objetivo: Construir una base de datos para un sistema de gestión de inventario de una tienda minorista virtual que incluya productos, proveedores, clientes, pedidos y auditoría de transacciones.
 Requerimientos del Proyecto:
 1.  Diseño de la Base de Datos:
